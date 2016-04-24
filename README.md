@@ -32,6 +32,10 @@ java -version
 # install leiningen
 brew install leiningen
 
+# install intelli-j community edition
+brew tap caskroom/versions
+brew cask install intellij-idea-ce
+
 
 
 
