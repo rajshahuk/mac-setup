@@ -36,6 +36,9 @@ brew install leiningen
 brew tap caskroom/versions
 brew cask install intellij-idea-ce
 
+# we use citrix to use machines at home so...
+brew cask install citrix-receiver
+
 
 
 
