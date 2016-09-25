@@ -24,6 +24,8 @@ _and then..._
 # install git
 brew install git
 
+brew install tmux
+
 # install java
 brew tap caskroom/cask
 brew cask install java
@@ -39,7 +41,17 @@ brew cask install intellij-idea-ce
 # we use citrix to use machines at home so...
 brew cask install citrix-receiver
 
+brew cask install little-snitch
 
-
+brew cask install google-chrome
 
 ```
+
+The following things are installed from the app store
+
+   * 1password
+   * Keynote
+   * Numbers
+   * Pages
+   * Evernote
+   * XCode
