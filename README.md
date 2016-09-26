@@ -51,6 +51,8 @@ brew cask install virtualbox vagrant
 
 brew cask install gimp
 
+brew cask install imageoptim
+
 ```
 
 The following things are installed from the app store
