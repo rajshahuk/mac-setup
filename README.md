@@ -45,6 +45,12 @@ brew cask install little-snitch
 
 brew cask install google-chrome
 
+brew install macvim
+
+brew cask install virtualbox vagrant
+
+brew cask install gimp
+
 ```
 
 The following things are installed from the app store
