@@ -63,3 +63,6 @@ The following things are installed from the app store
    * Pages
    * Evernote
    * XCode
+   * Magnet
+   * Things
+
