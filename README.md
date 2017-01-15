@@ -66,3 +66,8 @@ The following things are installed from the app store
    * Magnet
    * Things
 
+The following applications need to be downloaded from the vendor's website:
+
+   * [Dropbox](https://www.dropbox.com)
+   * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
+
