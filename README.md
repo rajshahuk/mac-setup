@@ -1,16 +1,12 @@
 # Mac Setup for Development
 
-## Docker
-
-Manual installation of docker from: https://www.docker.com/products/docker-toolbox
-
 ## Brew
 
 This is dependent on command line tools being available from xcode.
 
 Brew installed from here:
 
-http://brew.sh/
+<http://brew.sh/>
 
 The script to run is:
 
@@ -22,28 +18,20 @@ _and then..._
 
 ```
 # install git
-brew install git
+# brew install git
+# no longer needed as it is installed with xcode command line tools
 
 brew install tmux
 
-# install java
-brew tap caskroom/cask
+# install latest version of Java
 brew cask install java
 java -version
 
+# for older oracle builds go to the Oracle website and download from there
+# <https://www.oracle.com/technetwork/java/javase/downloads/index.html>
+
 # install leiningen
 brew install leiningen
-
-# install intelli-j community edition
-brew tap caskroom/versions
-brew cask install intellij-idea-ce
-
-# we use citrix to use machines at home so...
-brew cask install citrix-receiver
-
-brew cask install little-snitch
-
-brew cask install google-chrome
 
 brew install macvim
 
@@ -70,4 +58,5 @@ The following applications need to be downloaded from the vendor's website:
 
    * [Dropbox](https://www.dropbox.com)
    * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
+   * Intelli J
 
